@@ -1,0 +1,12 @@
+
+
+.player{
+    background-color: gray;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+h4,p,button{
+    margin: 0 ;
+    margin-left: 10px;
+
+}
