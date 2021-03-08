@@ -13,7 +13,7 @@ const Players = (props) => {
     return (
         <div className='player '>
             <div className>
-                <img src={image} alt="no internet " style={{width:'200px'}}/>
+                <img src={image} alt="player image " style={{width:'200px'}}/>
             </div>
 
             <div style={{marginTop:'10px'}}>
